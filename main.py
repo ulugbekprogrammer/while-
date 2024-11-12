@@ -188,3 +188,11 @@
 #     i += 0.1 * i
 #     k += 1
 # print(k)
+
+# n = int(input('Son kiriting: '))
+# i = n
+# k = 0
+# while i < 2 * n:
+#     i += 0.1 * i
+#     k += 1
+# print(k)
