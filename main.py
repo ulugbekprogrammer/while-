@@ -162,3 +162,29 @@
 #     if cars[i].endswith('a'):
 #         print(cars[i])
 #     i += 1
+
+
+# cars = ["Audi", "Tayota", "Mazda", "Volvo", "Lada"]
+# i = 0
+# while i < len(cars):
+#     s = cars[i]
+#     if s[len(s) -1] == 'a':
+#         print(s)
+#     i += 1
+
+# uy ishi
+# n = int(input('Son kiriting: '))
+# num = n
+# k = 0
+# while n < 2 * num:
+#     n += 0.1
+#     k += 1
+# print(k)
+
+# n = int(input('Son kiriting: '))
+# i = n
+# k = 0
+# while i < 2 * n:
+#     i += 0.1 * i
+#     k += 1
+# print(k)
